@@ -1,8 +1,7 @@
 # Hydreon RG-9
-Hydreon RG9 RS232 with Arduino
 
-Read the RS232/Serial Communication from the Rainsensor 
-It gives your the for the rain Rain Sensitivity Levels
+Read the RS232/Serial Communication from the Rainsensor Hydreon RG9 with an Arduino.
+It gives you the the rain sensitivity levels.
 
 R 0 (None)
 R 1 (Rain Drops)
